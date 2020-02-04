@@ -10,6 +10,5 @@ tensorflow
 other misc..
 
 ## Steps so far
-* Installed anaconda navigator
-* Created environment in ananconda for ml - importing packages keras and tensorflow.
-* Repository in git for recording progress
+* Made an automated forecast on consumable goods using auto arima of the pyramid package.
+
